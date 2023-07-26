@@ -1,4 +1,4 @@
-# Aymane Biri - Software Developer | C/C++/Python | Web Development | Cyber Security
+# Aymane Biri - Software Developer | C/C++/Python/JS | Web Development
 
 Hello, I'm Aymane Biri, a passionate programmer with a knack for problem-solving and a love for brilliant solutions. I specialize in C/C++/Python development and have experience in a wide range of exciting fields. Here are some highlights of my expertise:
 
