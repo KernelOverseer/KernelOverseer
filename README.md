@@ -1,5 +1,7 @@
-# Aymane Biri - Software Developer | C/C++/Python/JS | Web Development
 
+[![cover](https://github.com/KernelOverseer/KernelOverseer/assets/43656267/e01500c0-243f-4d23-a246-c83642f5421b)](https://mathematikoi.agency)
+
+# Aymane Biri - Software Developer | C/C++/Python/JS | Web Development
 Hello, I'm Aymane Biri, a passionate programmer with a knack for problem-solving and a love for brilliant solutions. I specialize in C/C++/Python development and have experience in a wide range of exciting fields. Here are some highlights of my expertise:
 
 ## 🔧 Technologies & Tools
