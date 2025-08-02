@@ -1,40 +1,51 @@
-# Aymane Biri - Software Developer | C/C++/Python/JS | Web Development
-Hello, I'm Aymane Biri, a passionate programmer with a knack for problem-solving and a love for brilliant solutions. I specialize in C/C++/Python development and have experience in a wide range of exciting fields. Here are some highlights of my expertise:
+<h1 align="center">Aymane Biri — Senior Software/AI Engineer</h1>
+<p align="center">
+  <b>LLM/DL inference optimization • Deployment orchestration • Systems engineering</b><br/>
+  Agadir, Morocco · <a href="mailto:aymanebiri@gmail.com">aymanebiri@gmail.com</a> · +212 696 408 522
+</p>
 
-## 🔧 Technologies & Tools
-- Web App Development
-  - React
-  - NodeJS
-  - Flask
-  - Django
-- C/C++ (Low-level programming)
-- Unix API (Linux/MacOS)
-- Algorithms and Data Structures
-- Computer Graphics
-- Cyber Security (Web and Mobile audits, Reverse Engineering)
+---
 
-## 💼 Notable Projects
+### 👋 About me
+I build reliable, high-performance AI systems from first principles—bridging low-level engineering with pragmatic product delivery.  
+Currently at **Omniops (KSA)**, focusing on **LLM/DL inference performance** (latency/throughput/cost) and **deployment orchestration** at scale.
 
-### Auto-Graph: Interactive Graph Visualization Website ([Auto-Graph](https://kerneloverseer.github.io/auto-graph))
-Auto-Graph is an interactive graph visualization website created with React, TypeScript, and Ant Design. Users can effortlessly explore and modify graphs using intuitive drag and drop interactions. The user-friendly interface and TypeScript integration showcase my skills in drag and drop handling, state management, and clean interface design.
+### 🚀 What I work on
+- Serving pipelines for LLMs & DL models: token streaming, concurrency control, batching, KV cache/memory efficiency
+- Orchestrating inference across clusters: Kubernetes + queues + autoscaling + observability
+- Production toolchains: Python/TS, FastAPI/Flask, React, Docker, K8s, Postgres, Redis, RabbitMQ, Celery
 
-### Ray-Tracing Engine in C with Distributed Cluster Rendering ([RT](https://github.com/KernelOverseer/RT))
-I embarked on the journey of building a sophisticated ray-tracing engine in C, featuring distributed cluster rendering. This project pushed the boundaries of computer graphics and distributed computing to create stunning visualizations.
+### 🧠 Highlights
+- Led **1337 AI Exploration Lab** (8 → 16 engineers): CV for industrial inspection, chemical process modeling, HR RAG chatbot, SFM stock tracking
+- Built iOS Bluetooth plugin + proximity algorithm for **Wiqaytna** (Moroccan COVID tracing app)
+- Security background (web audits, IR tooling) and microservices ERP (auth, BI, i18n, automation)
+- **Bronze — MCPC 2020**, first to solve Problem C; 1st place **OpenSourceDays** 2019 & 2021
 
-### Doom Game Clone from Scratch with Level Editor and Multiplayer ([KSICARDOOM](https://github.com/KernelOverseer/KSICARDOOM))
-I took on the exciting challenge of recreating the iconic Doom game from scratch. Alongside the core gameplay, I implemented a level editor and added multiplayer functionality in C, offering an immersive gaming experience.
+### 🛠️ Core stack
+**Languages:** C/C++, Python, JS/TS  
+**AI/Serving:** vLLM, RAG patterns, (Ops: batching, streaming, caching, tracing)  
+**Backend/Infra:** FastAPI/Flask, Docker, Kubernetes, Celery, RabbitMQ, Redis, Postgres  
+**Frontend:** React  
+**Domains:** Inference perf, systems programming, reliability engineering
 
-### Marketplace Mobile App with Backend ([Taswiq](https://play.google.com/store/apps/details?id=ma.ocp.taswiq&hl=en_US&gl=US))
-With a focus on full-stack development, I designed and built a marketplace mobile app, complete with a robust backend. This project showcased my web development skills using a combination of modern technologies.
+### 🔩 Principles I optimize for
+- **Latency/Throughput/Cost** trade-offs with measurable SLOs  
+- **Determinism & debuggability** via structured logs, traces, and health signals  
+- **Simple-by-default** architectures that scale without heroics
 
-## 📚 Learning & Growth
-I'm constantly exploring new technologies and deepening my knowledge in various domains. I believe in the power of continuous learning and stay up-to-date with the latest trends in the software development industry.
+### 📌 Selected work
+- **caLLMe** — Voice-first real-time LLM assistant (VAD → STT → Gen → TTS with interruptibility) — _[`link`](https://github.com/KernelOverseer/caLLMe)_
+- **K8s Inference Orchestrator** — Queue-routed tasks, autoscaling, backpressure, observability
+- **HR RAG Chatbot** — Policy/benefits QA with retrieval + structured outputs
+- **Industrial CV** — Inspection + predictive maintenance pipelines
 
-## 📫 Let's Connect!
-- GitHub: [github.com/KernelOverseer](https://github.com/KernelOverseer)
-- LinkedIn: [linkedin.com/in/aymane-biri](https://linkedin.com/in/aymane-biri/)
-- Email: aymanebiri@gmail.com
+### 📫 Reach me
+- Email: <a href="mailto:aymanebiri@gmail.com">aymanebiri@gmail.com</a>  
+- LinkedIn: [`link`](https://www.linkedin.com/in/aymane-biri/)
 
-Feel free to explore my repositories, and don't forget to ⭐️ your favorite projects! If you'd like to collaborate or discuss anything tech-related, I'm just a message away.
+---
 
-Let's innovate together! 🚀
+<sub>
+**Languages:** Arabic (native), English (professional), French (very good) ·  
+**Hobbies:** Electronics, Psychology, Guitar & Guembri
+</sub>
