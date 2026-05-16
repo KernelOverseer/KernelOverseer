@@ -1,51 +1,52 @@
-<h1 align="center">Aymane Biri — Senior Software/AI Engineer</h1>
-<p align="center">
-  <b>LLM/DL inference optimization • Deployment orchestration • Systems engineering</b><br/>
-  Agadir, Morocco · <a href="mailto:aymanebiri@gmail.com">aymanebiri@gmail.com</a> · +212 696 408 522
-</p>
+# Hi, I'm Aymane Biri 👋
+
+**Senior AI Engineer @ OmniOps** · Rabat, Morocco
+
+I design and ship AI systems that move the needle on real operational problems — agentic orchestration, document parsing pipelines, and Retrieval-Augmented Generation for enterprise intelligence. My work spans the full stack: architecture, implementation, optimization, and getting customers unstuck.
 
 ---
 
-### 👋 About me
-I build reliable, high-performance AI systems from first principles—bridging low-level engineering with pragmatic product delivery.  
-Currently at **Omniops (KSA)**, focusing on **LLM/DL inference performance** (latency/throughput/cost) and **deployment orchestration** at scale.
+## 🧠 What I'm working on
 
-### 🚀 What I work on
-- Serving pipelines for LLMs & DL models: token streaming, concurrency control, batching, KV cache/memory efficiency
-- Orchestrating inference across clusters: Kubernetes + queues + autoscaling + observability
-- Production toolchains: Python/TS, FastAPI/Flask, React, Docker, K8s, Postgres, Redis, RabbitMQ, Celery
+- **Agentic systems** — orchestration, tool use, MCP (Model Context Protocol) integrations
+- **RAG & document understanding** — pipelines that turn messy enterprise documents into searchable, structured knowledge
+- **LLM applications** — from fine-tuning vision-language models for custom OCR to building chat platforms from scratch
+- **Civic tech on the side** — processing Morocco's *Bulletin Officiel* into something citizens can actually read
 
-### 🧠 Highlights
-- Led **1337 AI Exploration Lab** (8 → 16 engineers): CV for industrial inspection, chemical process modeling, HR RAG chatbot, SFM stock tracking
-- Built iOS Bluetooth plugin + proximity algorithm for **Wiqaytna** (Moroccan COVID tracing app)
-- Security background (web audits, IR tooling) and microservices ERP (auth, BI, i18n, automation)
-- **Bronze — MCPC 2020**, first to solve Problem C; 1st place **OpenSourceDays** 2019 & 2021
+## 🛠️ Tech I reach for
 
-### 🛠️ Core stack
-**Languages:** C/C++, Python, JS/TS  
-**AI/Serving:** vLLM, RAG patterns, (Ops: batching, streaming, caching, tracing)  
-**Backend/Infra:** FastAPI/Flask, Docker, Kubernetes, Celery, RabbitMQ, Redis, Postgres  
-**Frontend:** React  
-**Domains:** Inference perf, systems programming, reliability engineering
+**Languages:** Python · C/C++ · JavaScript / TypeScript
+**AI/ML:** PyTorch · Transformers · LoRA fine-tuning · Quantization · LangChain · MCP
+**Backend:** FastAPI · structured logging · async pipelines
+**Infra:** Docker · Kubernetes · Hetzner · Tailscale
 
-### 🔩 Principles I optimize for
-- **Latency/Throughput/Cost** trade-offs with measurable SLOs  
-- **Determinism & debuggability** via structured logs, traces, and health signals  
-- **Simple-by-default** architectures that scale without heroics
+## 🏆 A few things I'm proud of
 
-### 📌 Selected work
-- **caLLMe** — Voice-first real-time LLM assistant (VAD → STT → Gen → TTS with interruptibility) — _[`link`](https://github.com/KernelOverseer/caLLMe)_
-- **K8s Inference Orchestrator** — Queue-routed tasks, autoscaling, backpressure, observability
-- **HR RAG Chatbot** — Policy/benefits QA with retrieval + structured outputs
-- **Industrial CV** — Inspection + predictive maintenance pipelines
+- 🥇 1st place — Open Source Days 2019 & 2021
+- 🥉 4th place (bronze) — Moroccan Collegiate Programming Contest 2020
+- Rebuilt a 6-month stalled project in one month without cutting corners
+- Grew an engineering team from 8 → 20 across CV, LLM, and optimization projects
+- Solved computer vision problems at OCP that had been open for years
 
-### 📫 Reach me
-- Email: <a href="mailto:aymanebiri@gmail.com">aymanebiri@gmail.com</a>  
-- LinkedIn: [`link`](https://www.linkedin.com/in/aymane-biri/)
+## 💼 Where I've been
+
+- **OmniOps** — Senior AI Engineer *(2025 – present)*
+- **1337 Coding School** — Software Engineering Manager · AI Exploration Lab lead *(2024 – 2025)*
+- **mathematikoi agency** — Co-Founder *(2023 – 2024)*
+- **SEKERA** — Cybersecurity Consultant *(2022 – 2023)*
+- **Decenture** — Principal Software Engineer *(2021)*
+- **OCP S.A** — Software Engineer *(2019 – 2020, contributed to the Wiqaytna contact-tracing app)*
+
+## 🌍 Languages
+
+Arabic (native) · French · English
+
+## 📫 Reach me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aymane-biri)
+- 🌐 [Portfolio](https://kerneloverseer.github.io)
+- ✉️ aymanebiri@gmail.com
 
 ---
 
-<sub>
-**Languages:** Arabic (native), English (professional), French (very good) ·  
-**Hobbies:** Electronics, Psychology, Guitar & Guembri
-</sub>
+*"Innovating digital solutions for a dynamic world."*
